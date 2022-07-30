@@ -1,7 +1,7 @@
 
 # Tasks 2
 
-My Second Task is to build Tribute Page so heres my Tribute Page.
+My Second Task is to build Tribute Page so heres Steve Tribute Page.
 ####
 ![App Screenshot](https://www.computerhope.com/jargon/t/task.png)
 
